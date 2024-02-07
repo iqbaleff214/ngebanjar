@@ -46,6 +46,9 @@ The primary goal of **Ngebanjar** is to empower users with effective tools and a
   - Utilize HTML5, CSS3, and JavaScript for responsive design.
   - Optimize for desktop, tablet, and mobile devices.
 
+## Reference
+[Pusat Pembinaan dan Pengembangan Bahasa, Departemen Pendidikan dan Kebudayaan. 1977. _Kamus Banjar-Indonesia_. Jakarta.](https://repositori.kemdikbud.go.id/2888/1/Kamus%20Banjar%20-%20Indonesia%20%20%20%20%20-%20%20%20189h.pdf)
+
 ## License
 
 Ngebanjar is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
