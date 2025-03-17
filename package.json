@@ -1,7 +1,7 @@
 {
   "name": "ngebanjar",
   "private": false,
-  "version": "0.1.0",
+  "version": "1.0.0",
   "type": "module",
   "author": {
     "name": "M. Iqbal Effendi",
@@ -21,5 +21,9 @@
     "svelte-check": "^4.1.4",
     "typescript": "~5.7.2",
     "vite": "^6.2.0"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.0.14",
+    "tailwindcss": "^4.0.14"
   }
 }

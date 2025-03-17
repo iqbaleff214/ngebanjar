@@ -1,7 +1,8 @@
-import { mount } from 'svelte'
-import './app.css'
-import App from './App.svelte'
+import { mount } from 'svelte';
+import './asset/style.css';
+import App from './Ngebanjar.svelte';
 
+// @ts-ignore
 const app = mount(App, {
   target: document.getElementById('app'),
 })
